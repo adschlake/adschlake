@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Airport BHS Systems and Warehouse Distribution Centers**
 
-- 📄 Know about my experiences [University of Louisville Speed School of Engineering - CECS 2019](University of Louisville Speed School of Engineering - CECS 2019)
+- ⚡ Fun fact **I enjoy camping and traveling across the country**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alexander-schlake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander-schlake" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adschlake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adschlake" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
